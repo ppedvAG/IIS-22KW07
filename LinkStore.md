@@ -9,3 +9,5 @@
 [FileZilla](https://download.filezilla-project.org/client/FileZilla_3.57.0_win64_sponsored-setup.exe)
 
 [PHP for IIS](https://windows.php.net/download)
+
+[.Net Core HostingPaket](https://docs.microsoft.com/de-de/aspnet/core/host-and-deploy/iis/?view=aspnetcore-6.0)
